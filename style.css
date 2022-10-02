@@ -1,0 +1,34 @@
+
+body{
+    margin:0px;
+
+
+}
+.canvasContainer{
+    width:50%;
+    display:flex;
+    justify-content: flex-start;
+    height:100vh;
+    /* flex-direction: column; */
+}
+
+.box{
+    border:1px solid black;
+    height:170px;
+    width:120px;
+    background-color: white;
+
+}
+#start{
+    font-size: 1cm;
+    color:white;
+    background-color:black;
+    margin:auto;
+    text-align:center;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
+.yellow{
+    background-color: yellow;
+}
